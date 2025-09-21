@@ -99,21 +99,19 @@ I am also expanding into **Flutter, Dart**, bridging the gap between intelligent
     <div style="margin-left: 20px;">
 
       <!-- Traffic Sign Detection -->
-      <a href="https://github.com/mostafa-aly-sayed/machine-learning-projects/tree/main/Traffic_Sign_Detection" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=machine-learning-projects&theme=tokyonight&show_owner=true" alt="Traffic Sign Detection Repo" />
+      <a href="https://github.com/mostafa-aly-sayed/machine-learning-projects/tree/main/Traffic_Sign_Detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=Traffic_Sign_Detection&theme=tokyonight" alt="Traffic Sign Detection Repo" />
       </a>
-      <p><em>Traffic Sign Detection:</em> A deep learning project using CNNs to classify and detect traffic signs with high accuracy.</p>
-      <hr>
 
       <!-- Speech2Text -->
-      <a href="https://github.com/mostafa-aly-sayed/machine-learning-projects/tree/main/Speech2Text" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=machine-learning-projects&theme=tokyonight&show_owner=true" alt="Speech2Text Repo" />
+      <a href="https://github.com/mostafa-aly-sayed/machine-learning-projects/tree/main/Speech2Text">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=Speech2Text&theme=tokyonight" alt="Speech2Text Repo" />
       </a>
-      <p><em>Speech2Text:</em> An end-to-end speech recognition project that converts spoken audio into text using deep learning models.</p>
 
     </div>
   </details>
 </section>
+---
 
 ## Analytics
 
