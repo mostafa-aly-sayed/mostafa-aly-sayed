@@ -10,3 +10,18 @@
 - 🌍 From Egypt 🇪🇬  
 
 ---
+
+## 📫 Contact Me  
+
+<a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <img src="./imgs/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://www.kaggle.com/your-kaggle-username" target="_blank">
+  <img src="./imgs/kaggle.png" alt="Kaggle" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="mailto:yourmail@example.com" target="_blank">
+  <img src="./imgs/mail.png" alt="Email" width="40" height="40"/>
+</a>
+
