@@ -22,6 +22,6 @@
 </a>
 &nbsp;
 <a href="mailto:yourmail@example.com" target="_blank">
-  <img src="./imgs/mail.png" alt="Email" width="40" height="40"/>
+  <img src="./imgs/gmail.png" alt="Email" width="40" height="40"/>
 </a>
 
