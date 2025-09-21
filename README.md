@@ -91,16 +91,23 @@ I am also expanding into **Flutter, Dart**, bridging the gap between intelligent
 </p>
 
  ---
+
 ## 📂 Repositories
 
 <details open>
   <summary><strong>🤖 AI/ML Projects</strong></summary>
+  <div align="center">
 
-  [![Traffic Sign Detection](https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=traffic-sign-detection&theme=tokyonight)](https://github.com/mostafa-aly-sayed/traffic-sign-detection)
+  <a href="https://github.com/mostafa-aly-sayed/traffic-sign-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=traffic-sign-detection&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/mostafa-aly-sayed/Speech2Text">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=Speech2Text&theme=tokyonight" />
+  </a>
 
-  [![Speech2Text](https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=Speech2Text&theme=tokyonight)](https://github.com/mostafa-aly-sayed/Speech2Text)
-
+  </div>
 </details>
+
 
 ---
 
