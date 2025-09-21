@@ -8,11 +8,12 @@
 ---
 
 ## 🚀 About Me  
-💡 I am a **Computer Science and Artificial Intelligence graduate** with a strong passion for **AI, Machine Learning, and Data Science**. Over time, I have built and experimented with several **real-world projects**, gaining hands-on experience in **Python, SQL, Power BI, and modern AI frameworks**.  
+💡 I am a **Computer Science and Artificial Intelligence graduate** currently working as an **AI Engineer**, where I design and develop solutions that tackle **real-world problems** through **Machine Learning, Deep Learning, and Data Science**. My experience spans across **Python, SQL, Power BI, and modern AI frameworks**, with a proven track record of building and deploying practical applications.  
 
-Currently, I’m expanding my skill set into **Flutter, Dart, and full-stack development**, combining my analytical background with software engineering to deliver complete, end-to-end solutions.  
+I am also expanding into **Flutter, Dart, and full-stack development**, bridging the gap between intelligent systems and end-user applications.  
 
-📄 [View My Resume](#)
+📄 Curious about the details? You can take a peek at my **resume [here](#)**.
+
 
 
 ---
