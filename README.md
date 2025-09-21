@@ -1,13 +1,14 @@
-## 👋 Hi, I'm Mostafa Aly
----
-🎓 CS & AI Graduate | 💻 Passionate about AI, ML, and Data Science 🚀 Exploring Deep Learning, NLP, and Dark Web Monitoring  
-📊 Skilled in Python, SQL, Tableau, and Power BI
+<h1 align="center">👋 Hi, I'm Mostafa Aly</h1>
+
 ---
 
-## 🌟 About Me
-- 🔍 Interested in AI research, Data Visualization, and Machine Learning applications  
-- 💡 Always learning & building projects to explore new ideas  
-- 🌍 From Egypt 🇪🇬  
+## 🚀 About Me  
+- 🎓 Graduate in Computer Science and Artificial Intelligence  
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science  
+- 💻 Always building and experimenting with real-world projects  
+- 📊 Experienced with Python, SQL, Power BI, and modern AI frameworks  
+- 🌱 Currently exploring Flutter, Dart, and full-stack development  
+ 
 
 ---
 
