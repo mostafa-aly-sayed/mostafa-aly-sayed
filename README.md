@@ -28,8 +28,12 @@
     <img src="./imgs/kaggle.png" alt="Kaggle" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="mailto:moustafaalyyy@gmail.com" target="_blank">
-    <img src="./imgs/gmail.png" alt="Email" width="40" height="40"/>
+---
+
+ ## 💻 Programming Languages  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
 
