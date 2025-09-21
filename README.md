@@ -2,7 +2,7 @@
 
 ---
 
-**🚀 About Me**  
+##🚀 About Me  
 - 🎓 Graduate in Computer Science and Artificial Intelligence  
 - 🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science  
 - 💻 Always building and experimenting with real-world projects  
