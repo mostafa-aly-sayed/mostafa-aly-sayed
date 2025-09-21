@@ -109,5 +109,21 @@ I am also expanding into **Flutter, Dart**, bridging the gap between intelligent
   </div>
 </details>
 
-
 ---
+
+## Analytics
+
+<div align="center">
+
+<!-- GitHub Streak -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=mostafa-aly-sayed&theme=tokyonight" alt="GitHub Streak" />
+</a>
+
+<br><br>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=mostafa-aly-sayed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+</div>
+
