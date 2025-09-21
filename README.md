@@ -91,26 +91,17 @@ I am also expanding into **Flutter, Dart**, bridging the gap between intelligent
 </p>
 
  ---
-<section id="repos">
-  <h2>📂 Repositories</h2>
+## 📂 Repositories
 
-  <details open>
-    <summary><strong>🤖 AI/ML Projects</strong></summary>
-    <div style="margin-left: 20px;">
+<details open>
+  <summary><strong>🤖 AI/ML Projects</strong></summary>
 
-      <!-- Traffic Sign Detection -->
-      <a href="https://github.com/mostafa-aly-sayed/machine-learning-projects/tree/main/Traffic_Sign_Detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=Traffic_Sign_Detection&theme=tokyonight" alt="Traffic Sign Detection Repo" />
-      </a>
+  [![Traffic Sign Detection](https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=Traffic_Sign_Detection&theme=tokyonight)](https://github.com/mostafa-aly-sayed/Traffic_Sign_Detection)
 
-      <!-- Speech2Text -->
-      <a href="https://github.com/mostafa-aly-sayed/machine-learning-projects/tree/main/Speech2Text">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=Speech2Text&theme=tokyonight" alt="Speech2Text Repo" />
-      </a>
+  [![Speech2Text](https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=Speech2Text&theme=tokyonight)](https://github.com/mostafa-aly-sayed/Speech2Text)
 
-    </div>
-  </details>
-</section>
+</details>
+
 ---
 
 ## Analytics
