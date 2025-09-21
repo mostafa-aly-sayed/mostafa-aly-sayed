@@ -32,18 +32,16 @@ I am also expanding into **Flutter, Dart**, bridging the gap between intelligent
 </p>
  
 ---
-## 🛠️ Tools  
+## 🛠️ Tools, Frameworks & Libraries
 
-### 💻 Programming Languages  
+### 💻 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,java,dart,html,css,mysql,postgresql" />
   </a>
 </p>
 
-
-
-### 🤖 AI / Machine Learning
+### 🤖 AI / Machine Learning Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -51,9 +49,7 @@ I am also expanding into **Flutter, Dart**, bridging the gap between intelligent
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-
-
-### 📊 Data Analysis & Visualization
+### 📊 Data Analysis & Visualization Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -64,9 +60,7 @@ I am also expanding into **Flutter, Dart**, bridging the gap between intelligent
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-
-
-### 💻 Development
+### 💻 Web & App Development Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -75,8 +69,7 @@ I am also expanding into **Flutter, Dart**, bridging the gap between intelligent
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-
-### 🛠️ Tools & Others
+### 🛠️ Tools & Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
