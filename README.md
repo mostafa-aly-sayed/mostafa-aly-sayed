@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Mostafa Aly</h1>
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+
 ---
 
 ## 🚀 About Me  
