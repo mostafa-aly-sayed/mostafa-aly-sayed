@@ -13,7 +13,7 @@
 
 I am also expanding into **Flutter, Dart**, bridging the gap between intelligent systems and end-user applications.  
 
-📄 Curious about the details? You can take a peek at my **resume [here](#)**.
+📄 Curious about the details? You can take a peek at my **resume [here](https://drive.google.com/file/d/14IBNsHBqhT3kRJMljS-7BYoDuVTxkRZw/view?usp=sharing)**.
 
 
 
