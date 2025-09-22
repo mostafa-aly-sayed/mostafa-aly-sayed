@@ -107,6 +107,8 @@ I am also expanding into **Flutter and Dart**, bridging the gap between intellig
   </a>
 
   </div>
+
+  <summary><strong>Flutter Projects</strong></summary>
 </details>
 
 ---
