@@ -126,5 +126,3 @@ I am also expanding into **Flutter and Dart**, bridging the gap between intellig
 
 
 ---
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mostafa-aly-sayed&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
