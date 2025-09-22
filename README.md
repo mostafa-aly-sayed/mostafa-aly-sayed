@@ -107,9 +107,23 @@ I am also expanding into **Flutter and Dart**, bridging the gap between intellig
   </a>
 
   </div>
-
-  <summary><strong>Flutter Projects</strong></summary>
 </details>
+
+<details>
+  <summary><strong>📱 Flutter Projects</strong></summary>
+  <div align="center">
+
+  <a href="https://github.com/mostafa-aly-sayed/tourism-gallery-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=tourism-gallery-app&theme=tokyonight" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mostafa-aly-sayed/your-other-flutter-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=your-other-flutter-repo&theme=tokyonight" />
+  </a>
+
+  </div>
+</details>
+
 
 ---
 
