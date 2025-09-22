@@ -131,4 +131,3 @@ I am also expanding into **Flutter and Dart**, bridging the gap between intellig
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mostafa-aly-sayed&theme=tokyonight" alt="GitHub Streak" /></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
