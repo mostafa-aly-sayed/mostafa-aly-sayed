@@ -26,13 +26,14 @@ I am also expanding into **Flutter and Dart**, bridging the gap between intellig
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mostafa-aly-sayed/" target="_blank">
-    <img src="./imgs/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:moustafaalyyy@gmail.com" target="_blank">
-    <img src="./imgs/gmail.png" alt="Email" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
  
 ---
 ## 🛠️ Tools, Frameworks & Libraries
