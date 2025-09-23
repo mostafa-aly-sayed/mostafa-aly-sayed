@@ -128,5 +128,7 @@ I am also expanding into **Flutter and Dart**, bridging the gap between intellig
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://img.shields.io/badge/dynamic/json?url=https://github-readme-streak-stats.herokuapp.com/?user=mostafa-aly-sayed&label=streak&color=blue&style=for-the-badge&query=currentStreak)
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=mostafa-aly-sayed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
