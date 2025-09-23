@@ -126,7 +126,8 @@ I am also expanding into **Flutter and Dart**, bridging the gap between intellig
 
 ---
 
-## Analytics
+## 🔥 GitHub Streak  
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mostafa-aly-sayed&theme=tokyonight" alt="GitHub Streak" /></a>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-aly-sayed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
