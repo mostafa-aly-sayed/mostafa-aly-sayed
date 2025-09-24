@@ -113,10 +113,10 @@ I am also expanding into **Flutter and Dart**, bridging the gap between intellig
   <summary><strong>📱 Flutter Projects</strong></summary>
   <div align="center">
 
-  <a href="https://github.com/mostafa-aly-sayed/tourism-gallery-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=NewsApp&theme=tokyonight" />
-  </a>
-  &nbsp;
+<a href="https://github.com/mostafa-aly-sayed/tourism-gallery-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=NewsApp&theme=tokyonight" />
+</a>
+
 
   </div>
 </details>
