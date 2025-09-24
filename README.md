@@ -117,9 +117,6 @@ I am also expanding into **Flutter and Dart**, bridging the gap between intellig
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=NewsApp&theme=tokyonight" />
   </a>
   &nbsp;
-  <a href="https://github.com/mostafa-aly-sayed/your-other-flutter-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=your-other-flutter-repo&theme=tokyonight" />
-  </a>
 
   </div>
 </details>
