@@ -148,10 +148,14 @@ An advanced AI-powered framework for monitoring and analyzing **dark web activit
 <a href="https://github.com/mostafa-aly-sayed/tourism-gallery-app">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=NewsApp&theme=tokyonight" />
 </a>
-
+&nbsp;
+<a href="https://github.com/mostafa-aly-sayed/WeatherApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=WeatherApp&theme=tokyonight" />
+</a>
 
   </div>
 </details>
+
 
 ---
 ## 📊 GitHub Analytics  
