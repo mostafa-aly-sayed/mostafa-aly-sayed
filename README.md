@@ -105,9 +105,22 @@ I am also expanding into **Flutter and Dart**, bridging the gap between intellig
   <a href="https://github.com/mostafa-aly-sayed/Speech2Text">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=Speech2Text&theme=tokyonight" />
   </a>
+  &nbsp;
+  <a href="https://github.com/mostafa-aly-sayed/CodeAlpha_SpeechEmotionRecognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=CodeAlpha_SpeechEmotionRecognition&theme=tokyonight" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mostafa-aly-sayed/CodeAlpha_HandwrittenCharacterRecognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=CodeAlpha_HandwrittenCharacterRecognition&theme=tokyonight" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mostafa-aly-sayed/CodeAlpha_DiseasePredection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=CodeAlpha_DiseasePredection&theme=tokyonight" />
+  </a>
 
   </div>
 </details>
+
 
 <details>
   <summary><strong>📱 Flutter Projects</strong></summary>
