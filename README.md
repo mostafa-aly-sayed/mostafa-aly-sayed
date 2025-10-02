@@ -96,7 +96,7 @@ I am also expanding into **Flutter and Dart**, bridging the gap between intellig
 <div align="center">
 
 ### 🕸️ NeoSilk – AI-Enhanced Dark Web Monitoring Framework  
-*My Final Year Project | 2024*  
+*Final Year Project | 2025*  
 
 <a href="https://github.com/mostafa-aly-sayed/NeoSilk">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa-aly-sayed&repo=NeoSilk&theme=tokyonight" />
@@ -106,7 +106,7 @@ I am also expanding into **Flutter and Dart**, bridging the gap between intellig
 An advanced AI-powered framework for monitoring and analyzing **dark web activities** using **machine learning** and **natural language processing (NLP)** techniques.  
 
 ⚡ **Key Technologies**:  
-`Python` • `Machine Learning` • `Deep Learning` • `NLP` • `Cybersecurity`  
+`Python` • `Machine Learning` • `Deep Learning` • `NLP` • `Cybersecurity` • `Data Analysis` 
 
 </div>
 
