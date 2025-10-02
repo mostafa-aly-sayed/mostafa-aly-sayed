@@ -111,7 +111,7 @@ An advanced AI-powered framework for monitoring and analyzing **dark web activit
 </div>
 
  ---
-## 📂 Repositories
+## 📂 Projects
 
 <details open>
   <summary><strong>🤖 AI/ML Projects</strong></summary>
