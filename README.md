@@ -138,11 +138,6 @@ I am also expanding into **Flutter and Dart**, bridging the gap between intellig
 ## 📊 GitHub Analytics  
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-aly-sayed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-aly-sayed&theme=tokyonight" alt="GitHub Streak" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-aly-sayed&layout=compact&theme=tokyonight" alt="Top Languages" />
-
 </div>
