@@ -156,10 +156,4 @@ An advanced AI-powered framework for monitoring and analyzing dark web activitie
 </details>
 
 
----
-## 📊 GitHub Analytics  
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-aly-sayed&theme=tokyonight" alt="GitHub Streak" />
-  &nbsp;
-</div>
