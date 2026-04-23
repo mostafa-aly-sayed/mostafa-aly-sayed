@@ -172,26 +172,6 @@ Automatic speech recognition pipeline with engineered audio features — MFCCs, 
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mostafa-aly-sayed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-aly-sayed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=mostafa-aly-sayed&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa-aly-sayed&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
 <div align="center">
 
 **Open to AI collaborations, research, and freelance work**
