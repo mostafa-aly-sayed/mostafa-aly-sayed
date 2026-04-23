@@ -13,7 +13,13 @@
 
 *Building production AI systems at the edge of research and reality.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-aly-sayed/)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-moustafaasayed.netlify.app-2E75B6?style=for-the-badge)](https://moustafaasayed.netlify.app/)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moustafa-aly-sayed/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:moustafaalyyy@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1wAAdZH3Wto0IIRbpQ21AvB3iswFU4ZX-)
 
@@ -24,6 +30,8 @@
 ## What I Build
 
 I specialize in shipping AI that works outside the notebook — multimodal systems, NLP pipelines, and computer vision deployments. From darknet threat intelligence to real-time sign language recognition, my focus is on systems that close the gap between research and real-world use.
+
+Currently working as a **Freelance AI Solutions Developer** at Happy Software (Saudi Arabia, Remote) — building and deploying ML-powered applications for international clients across computer vision and NLP.
 
 ---
 
@@ -108,8 +116,10 @@ Automatic speech recognition pipeline with engineered audio features — MFCCs, 
 
 | Project | Description |
 |---|---|
+| [Bookly App](https://github.com/mostafa-aly-sayed) | Google Books API · 40M+ titles · Clean Architecture · Bloc/Cubit |
+| [NewsCloud App](https://github.com/mostafa-aly-sayed/NewsApp) | Real-time news reader · NewsAPI · Responsive layouts |
+| [Real-Time Chat App](https://github.com/mostafa-aly-sayed) | Firebase Auth · Firestore · Bloc/Cubit · Live messaging |
 | [Weather App](https://github.com/mostafa-aly-sayed/WeatherApp) | Live weather data with location support |
-| [News App](https://github.com/mostafa-aly-sayed/NewsApp) | Category-filtered news reader |
 
 </details>
 
@@ -162,9 +172,30 @@ Automatic speech recognition pipeline with engineered audio features — MFCCs, 
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mostafa-aly-sayed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-aly-sayed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=mostafa-aly-sayed&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafa-aly-sayed&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
 <div align="center">
 
 **Open to AI collaborations, research, and freelance work**
-[moustafaalyyy@gmail.com](mailto:moustafaalyyy@gmail.com)
+
+[moustafaalyyy@gmail.com](mailto:moustafaalyyy@gmail.com) · [moustafaasayed.netlify.app](https://moustafaasayed.netlify.app/)
 
 </div>
