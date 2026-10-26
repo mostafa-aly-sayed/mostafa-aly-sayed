@@ -1,23 +1,12 @@
 <div align="center">
 
-```
-███╗   ███╗ ██████╗ ███████╗████████╗ █████╗ ███████╗ █████╗
-████╗ ████║██╔═══██╗██╔════╝╚══██╔══╝██╔══██╗██╔════╝██╔══██╗
-██╔████╔██║██║   ██║███████╗   ██║   ███████║█████╗  ███████║
-██║╚██╔╝██║██║   ██║╚════██║   ██║   ██╔══██║██╔══╝  ██╔══██║
-██║ ╚═╝ ██║╚██████╔╝███████║   ██║   ██║  ██║██║     ██║  ██║
-╚═╝     ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004F90,100:2E75B6&height=200&section=header&text=MOSTAFA&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Automation%20Engineer&descAlignY=60&descSize=20" width="100%"/>
 
-**AI & Automation Engineer · Cairo University, B.Sc. Artificial Intelligence**
+<a href="https://github.com/mostafa-aly-sayed">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2E75B6&center=true&vCenter=true&width=620&lines=Building+Odoo+ERP+from+scratch+%E2%9A%99%EF%B8%8F;LLM+agents+with+a+human+in+the+loop+%F0%9F%A4%96;RAG+assistants+%2B+Claude+via+MCP+%F0%9F%94%97;Emails+%E2%86%92+Orders+%E2%86%92+Live+sales+insights+%F0%9F%93%88;Automating+real+business+operations+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
 
-*Building ERP systems, LLM agents, and automations that run real business operations.*
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-moustafaasayed.netlify.app-2E75B6?style=for-the-badge)](https://moustafaasayed.netlify.app/)
-
-<br/>
+**Cairo University · B.Sc. Artificial Intelligence**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-aly-sayed/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:moustafaalyyy@gmail.com)
@@ -232,6 +221,8 @@ Automatic speech recognition pipeline with engineered audio features — MFCCs, 
 
 **Open to AI & automation collaborations, research, and freelance work**
 
-[moustafaalyyy@gmail.com](mailto:moustafaalyyy@gmail.com) · [moustafaasayed.netlify.app](https://moustafaasayed.netlify.app/)
+[moustafaalyyy@gmail.com](mailto:moustafaalyyy@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,100:004F90&height=110&section=footer" width="100%"/>
 
 </div>
