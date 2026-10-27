@@ -48,7 +48,28 @@ Currently **AI & Automation Engineer at naturesta** (Giza, Egypt), building the 
 
 ## Flagship Projects
 
-### ① NeoSilk — AI-Powered Dark Web Monitoring Framework
+### ① Istiqamah Way — Multi-Platform Quran Channel + Publishing Studio
+
+> *Recent project · Live*
+
+**[🌐 Website](https://istiqamah-way.github.io)** · [YouTube](https://www.youtube.com/@Istiqamahway) · [TikTok](https://www.tiktok.com/@istiqamah.way) · [Instagram](https://www.instagram.com/istiqamah.way)
+
+A content brand publishing Quran recitations and Islamic reminders to YouTube, TikTok and Instagram, run by **Istiqamah Studio**, a private tool I built to prepare videos and publish them to the channel's own accounts.
+
+| What | How |
+|---|---|
+| Multi-platform publishing | One tool prepares and publishes videos to YouTube, TikTok and Instagram |
+| Human-in-the-loop | Nothing goes live until the owner reviews it and presses **Publish** (as draft or post) |
+| Trusted sources | Quran text from the Quran.com API; recitations from Quran.com and mp3quran.net |
+| Privacy by design | Sign-in tokens stay local on the owner's machine; no viewer data, no ads |
+| Platform API compliance | Public Terms & Privacy pages and TikTok domain verification for API access |
+| Web presence | Zero-dependency static site (HTML + CSS) on GitHub Pages with its own brand system |
+
+`YouTube API` `TikTok API` `Instagram API` `OAuth` `Content Automation` `GitHub Pages` `HTML/CSS`
+
+---
+
+### ② NeoSilk — AI-Powered Dark Web Monitoring Framework
 
 > *Graduation Project · Grade: A+*
 
@@ -68,7 +89,7 @@ An intelligence framework for cybersecurity analysts that scrapes, classifies, a
 
 ---
 
-### ② Multimodal ASL Recognition — Speech & Video to Text
+### ③ Multimodal ASL Recognition — Speech & Video to Text
 
 A two-phase deep learning pipeline that understands American Sign Language from both audio and video inputs, served as independent REST APIs.
 
@@ -87,27 +108,18 @@ A two-phase deep learning pipeline that understands American Sign Language from 
 
 ---
 
-### ③ Real-Time Traffic Sign Detection
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mostafa-aly-sayed/traffic-sign-detection)
-
-YOLOv8-powered detection pipeline achieving **30+ FPS** on live video. Custom-annotated dataset via Roboflow covering 10+ sign classes, with augmentation pipeline for real-world generalization.
-
-`YOLOv8` `OpenCV` `Roboflow` `Python`
-
----
-
-### ④ Speech2Text — End-to-End ASR
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mostafa-aly-sayed/Speech2Text)
-
-Automatic speech recognition pipeline with engineered audio features — MFCCs, spectrograms, and noise reduction — for robust transcription under real-world conditions.
-
-`TensorFlow` `Librosa` `SpeechRecognition`
-
----
-
 ## Other Work
+
+<details>
+<summary><b>Earlier ML Projects</b></summary>
+<br>
+
+| Project | Description |
+|---|---|
+| [Real-Time Traffic Sign Detection](https://github.com/mostafa-aly-sayed/traffic-sign-detection) | YOLOv8 · 30+ FPS on live video · custom Roboflow dataset, 10+ classes |
+| [Speech2Text](https://github.com/mostafa-aly-sayed/Speech2Text) | End-to-end ASR with MFCCs, spectrograms and noise reduction |
+
+</details>
 
 <details>
 <summary><b>CodeAlpha Internship Projects</b></summary>
